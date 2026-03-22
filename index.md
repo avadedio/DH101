@@ -1,5 +1,5 @@
 # AHI 101 – Critical Making in the Age of AI
-### [Your Name] — Final Portfolio
+### [Ava Dedio] — Final Portfolio
 
 ---
 
