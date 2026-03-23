@@ -4,8 +4,8 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-![Artifact image](../assets/week07/your-image.jpg)
-*Figure 1 — [Write a caption describing your artifact.]*
+![Artifact image](https://kumu.io/adedio/network-visualization)
+*Figure 1 — [This map visualizes AI Supply Chain Networks]*
 
 ## Process Notes
 How did you make this?
