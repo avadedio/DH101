@@ -1,4 +1,4 @@
-AI Selfie
+Week 2: AI Selfie
 ![create an image of a blonde brown eyed 21 year old](https://github.com/user-attachments/assets/9e461a7a-ea7e-4687-9935-39e4df7ff72b)
 ![make her happy and with others (1)](https://github.com/user-attachments/assets/34c0ff41-14c7-4af0-899b-815fadeb5488)
 Alt text for images:
