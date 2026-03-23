@@ -1,11 +1,12 @@
-# Week 3 – Selfie & Identity
+# Week 3 – Let's Make a Comic 
 
 ## The Artifact
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
+<img width="1024" height="1536" alt="ChatGPT Image Feb 11, 2026, 03_25_55 PM" src="https://github.com/user-attachments/assets/75500d6f-f387-48fa-8489-533d5a776d65" />
 
-![Artifact image](../assets/week03/your-image.jpg)
-*Figure 1 — [Write a caption describing your artifact.]*
+
+Alt text: This comic documents a more real "day in the life" of a college student, highlighting themes of time management, burnout, and balancing social life, academics, and self care.
 
 ## Process Notes
 How did you make this?
