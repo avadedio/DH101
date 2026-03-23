@@ -1,4 +1,4 @@
-# AI Use Statement
+Accessibility statement
 
 How I used artificial intelligence tools in AHI 101 — including coding assistants, text and image generators, and analysis tools — with discussion of limits, bias, and ethical considerations.
 
