@@ -1,11 +1,11 @@
 # Week 1 – Reverse Engineering
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
 
-![Artifact image](../assets/week01/your-image.jpg)
-*Figure 1 — [Write a caption describing your artifact.]*
+https://thispersondoesnotexist.com/
+- Click here for a generator to find a familiar but nonexistent face using past patterns and data.
+
+
 
 ## Process Notes
 How did you make this?
@@ -21,4 +21,3 @@ Respond to this week's reflection prompt in 200–300 words.
 - What AI generated:
 - What you changed or decided:
 - Sources:
-- Licenses:
