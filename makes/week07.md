@@ -4,7 +4,8 @@
 Describe or embed your artifact here.
 Include images, links, or media as appropriate.
 
-![Artifact image](https://kumu.io/adedio/network-visualization)
+https://kumu.io/adedio/network-visualization
+
 *Figure 1 — [This map visualizes AI Supply Chain Networks]*
 
 ## Process Notes
