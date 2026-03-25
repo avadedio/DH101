@@ -1,3 +1,29 @@
+
+---
+title: Digital Humanities 101
+description: Course site — projects, makes, and reflections for DH101.
+---
+
+# Digital Humanities 101
+
+Welcome to the course site for Digital Humanities 101. This site collects readings, weekly makes, reflections, and resources we use in class.
+
+## Quick Links
+
+- [About](/pages/about.md)
+- [Accessibility](/pages/accessibility.md)
+- [How I Use AI](/pages/how-i-use-ai.md)
+- [Makes](/makes/index.md)
+- [Reflections](/reflections/index.md)
+- [Week 07 Make](/makes/week07.md)
+
+## About this site
+
+This site is maintained as a simple static site using Markdown. Content is organized into the `pages`, `makes`, and `reflections` folders. If you notice any accessibility issues or broken links, please open an issue in the repository or contact the site owner.
+
+---
+
+Last updated: March 25, 2026
 # AHI 101 – Critical Making in the Age of AI
 ### [Ava Dedio] — Final Portfolio
 
