@@ -4,53 +4,65 @@ title: Digital Humanities 101
 description: Course site — projects, makes, and reflections for DH101.
 ---
 
-<div style="background-color: #FFB6D9; padding: 30px; text-align: center; border-radius: 8px; margin-bottom: 30px;">
-  <h1 style="margin: 0; color: #333;">Ava Dedio</h1>
-  <h2 style="margin: 10px 0 0 0; color: #333;">Digital Humanities 101</h2>
+<div style="background: linear-gradient(135deg, #8B6B47 0%, #6B5A47 100%); padding: 60px 40px; text-align: center; border-radius: 12px; margin-bottom: 40px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h1 style="margin: 0; color: #FFB6D9; font-size: 3em; font-weight: 700; letter-spacing: 1px;">Ava Dedio</h1>
+  <p style="margin: 15px 0 0 0; color: #E8D4C8; font-size: 1.4em; font-weight: 300; letter-spacing: 0.5px;">Digital Humanities 101</p>
 </div>
 
-# Digital Humanities 101
-
-Welcome to the course site for Digital Humanities 101. This site collects readings, weekly makes, reflections, and resources we use in class.
-
-## Quick Links
-
-- [About](/pages/about.md)
-- [Accessibility](/pages/accessibility.md)
-- [How I Use AI](/pages/how-i-use-ai.md)
-- [Makes](/makes/index.md)
-- [Reflections](/reflections/index.md)
-- [Week 07 Make](/makes/week07.md)
-
-## About this site
-
-This site is maintained as a simple static site using Markdown. Content is organized into the `pages`, `makes`, and `reflections` folders. If you notice any accessibility issues or broken links, please open an issue in the repository or contact the site owner.
-
----
-
-Last updated: March 25, 2026
-# AHI 101 – Critical Making in the Age of AI
-### [Ava Dedio] — Final Portfolio
-
----
+<div style="background-color: #F5F0EB; padding: 40px; border-left: 5px solid #FFB6D9; border-radius: 8px; margin-bottom: 40px;">
 
 ## Welcome
 
-[REPLACE WITH YOUR 250–400 WORD INTRODUCTION]
+This is your portfolio for **AHI 101: Critical Making in the Age of AI**. Explore the artifacts, reflections, and essays that document your journey through this course.
 
-This is where you explain your central argument: What have you learned about humans and AI through critical making this semester? This is not a summary of what you did — it's an argument about what it means. Write in first person. Start with something specific — a moment, a surprise, a claim.
+</div>
 
-Example opening (delete this and write your own):
-*When I started this course, I assumed AI was something that happened to people — something done to us, not with us. Making changed that assumption. Every artifact in this portfolio is a record of a negotiation: between what I wanted to say and what a machine was trained to produce. That negotiation, I've come to believe, is where the most important questions about AI actually live.*
+## Featured Sections
 
-Aim for 250–400 words total. Delete all placeholder text above and below before submitting.
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 40px;">
+  <div style="background-color: #FFE6F0; padding: 25px; border-radius: 8px; border-top: 4px solid #FFB6D9;">
+    <h3 style="color: #8B6B47; margin-top: 0;">📝 Makes</h3>
+    <p style="color: #333; margin: 0;">Weekly artifacts exploring critical making and AI</p>
+    <a href="/makes/index.md" style="color: #8B6B47; font-weight: 600; text-decoration: none;">View all →</a>
+  </div>
+  <div style="background-color: #F0E6F5; padding: 25px; border-radius: 8px; border-top: 4px solid #C7A0DA;">
+    <h3 style="color: #8B6B47; margin-top: 0;">💭 Reflections</h3>
+    <p style="color: #333; margin: 0;">Journal responses and course reflections</p>
+    <a href="/reflections/index.md" style="color: #8B6B47; font-weight: 600; text-decoration: none;">Read more →</a>
+  </div>
+</div>
+
+## Quick Navigation
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-bottom: 40px;">
+  <a href="/pages/about.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">About</a>
+  <a href="/pages/how-i-use-ai.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">How I Use AI</a>
+  <a href="/pages/accessibility.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">Accessibility</a>
+</div>
+
+## About This Site
+
+<div style="background-color: #F5F0EB; padding: 25px; border-radius: 8px; border-left: 4px solid #8B6B47;">
+
+This site is maintained as a simple static site using Markdown. Content is organized into the `pages`, `makes`, and `reflections` folders. 
+
+**Last updated:** March 25, 2026
+
+</div>
 
 ---
 
-## Portfolio Sections
+## Essay & Resources
 
-- [Makes](makes/) — Artifacts from across the semester with reflections and attributions
-- [Reflections](reflections/) — Selected journal responses to weekly prompts
-- [AI Use Statement](ai-statement.md) — How I used AI tools in this course, with examples, limits, and ethical considerations
-- [Accessibility & Sustainability](ai-statement.md#accessibility) — Steps taken to make this site usable and lower-impact
-- [Final Essay](essay.md) — 750–1000 words on what it means to be human in the age of AI
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div style="background-color: #FFF5F8; padding: 20px; border-radius: 8px; border-left: 4px solid #FFB6D9;">
+    <h4 style="color: #8B6B47; margin-top: 0;">📄 Final Essay</h4>
+    <p style="color: #333; font-size: 0.95em;">Exploring what it means to be human in the age of AI</p>
+    <a href="essay.md" style="color: #FFB6D9; font-weight: 600; text-decoration: none;">Read essay →</a>
+  </div>
+  <div style="background-color: #FFF5F8; padding: 20px; border-radius: 8px; border-left: 4px solid #FFB6D9;">
+    <h4 style="color: #8B6B47; margin-top: 0;">🤖 AI Use Statement</h4>
+    <p style="color: #333; font-size: 0.95em;">How I used AI tools with integrity and reflection</p>
+    <a href="ai-statement.md" style="color: #FFB6D9; font-weight: 600; text-decoration: none;">Read statement →</a>
+  </div>
+</div>
