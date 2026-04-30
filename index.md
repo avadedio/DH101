@@ -35,9 +35,9 @@ This is your portfolio for **AHI 101: Critical Making in the Age of AI**. Explor
 ## Quick Navigation
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-bottom: 40px;">
-  <a href="/pages/about.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">About</a>
-  <a href="/pages/how-i-use-ai.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">How I Use AI</a>
-  <a href="/pages/accessibility.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">Accessibility</a>
+  <a href="pages/about.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">About</a>
+  <a href="pages/how-i-use-ai.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">How I Use AI</a>
+  <a href="pages/accessibility.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">Accessibility</a>
 </div>
 
 ## About This Site
