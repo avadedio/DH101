@@ -23,12 +23,12 @@ This is your portfolio for **AHI 101: Critical Making in the Age of AI**. Explor
   <div style="background-color: #FFE6F0; padding: 25px; border-radius: 8px; border-top: 4px solid #FFB6D9;">
     <h3 style="color: #8B6B47; margin-top: 0;">📝 Makes</h3>
     <p style="color: #333; margin: 0;">Weekly artifacts exploring critical making and AI</p>
-    <a href="/makes/index.md" style="color: #8B6B47; font-weight: 600; text-decoration: none;">View all →</a>
+    <a href="makes/" style="color: #8B6B47; font-weight: 600; text-decoration: none;">View all →</a>
   </div>
   <div style="background-color: #F0E6F5; padding: 25px; border-radius: 8px; border-top: 4px solid #C7A0DA;">
     <h3 style="color: #8B6B47; margin-top: 0;">💭 Reflections</h3>
     <p style="color: #333; margin: 0;">Journal responses and course reflections</p>
-    <a href="/reflections/index.md" style="color: #8B6B47; font-weight: 600; text-decoration: none;">Read more →</a>
+    <a href="reflections/" style="color: #8B6B47; font-weight: 600; text-decoration: none;">Read more →</a>
   </div>
 </div>
 
