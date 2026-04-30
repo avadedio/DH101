@@ -4,6 +4,11 @@ title: Digital Humanities 101
 description: Course site — projects, makes, and reflections for DH101.
 ---
 
+<div style="background-color: #FFB6D9; padding: 30px; text-align: center; border-radius: 8px; margin-bottom: 30px;">
+  <h1 style="margin: 0; color: #333;">Ava Dedio</h1>
+  <h2 style="margin: 10px 0 0 0; color: #333;">Digital Humanities 101</h2>
+</div>
+
 # Digital Humanities 101
 
 Welcome to the course site for Digital Humanities 101. This site collects readings, weekly makes, reflections, and resources we use in class.

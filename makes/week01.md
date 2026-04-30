@@ -3,7 +3,7 @@
 ## The Artifact
 
 https://thispersondoesnotexist.com/
-- Click here for a generator to find a familiar but nonexistent face using past patterns and data.
+- Click here for a generator to find a seemingly familiar but nonexistent face using past patterns and data.
 
 
 
