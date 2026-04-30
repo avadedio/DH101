@@ -4,9 +4,14 @@ title: Digital Humanities 101
 description: Course site — projects, makes, and reflections for DH101.
 ---
 
-<div style="background: linear-gradient(135deg, #8B6B47 0%, #6B5A47 100%); padding: 60px 40px; text-align: center; border-radius: 12px; margin-bottom: 40px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <h1 style="margin: 0; color: #FFB6D9; font-size: 3em; font-weight: 700; letter-spacing: 1px;">Ava Dedio</h1>
-  <p style="margin: 15px 0 0 0; color: #E8D4C8; font-size: 1.4em; font-weight: 300; letter-spacing: 0.5px;">Digital Humanities 101</p>
+<div style="background: linear-gradient(135deg, #8B6B47 0%, #6B5A47 100%); padding: 60px 40px; border-radius: 12px; margin-bottom: 40px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: flex; align-items: center; gap: 40px;">
+  <div style="flex: 1;">
+    <h1 style="margin: 0; color: #FFB6D9; font-size: 3em; font-weight: 700; letter-spacing: 1px;">Ava Dedio</h1>
+    <p style="margin: 15px 0 0 0; color: #E8D4C8; font-size: 1.4em; font-weight: 300; letter-spacing: 0.5px;">Digital Humanities 101</p>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <img src="makes/ava picture .png" alt="Ava Dedio" style="width: 200px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </div>
 </div>
 
 <div style="background-color: #F5F0EB; padding: 40px; border-left: 5px solid #FFB6D9; border-radius: 8px; margin-bottom: 40px;">
