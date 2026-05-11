@@ -7,6 +7,7 @@ A collection of artifacts from AHI 101, each connecting a making practice to que
 | Week | Artifact Type | Title |
 |------|--------------|-------|
 | [Week 1](week01.md) | Reverse Engineering | [Your title] |
+| [Week 2](week02.md) | AI Selfie | [Your title] |
 | [Week 3](week03.md) | Selfie & Identity | [Your title] |
 | [Week 4](week04.md) | Comic & Storytelling | [Your title] |
 | [Week 5](week05.md) | GIF & Remix Culture | [Your title] |
@@ -15,3 +16,5 @@ A collection of artifacts from AHI 101, each connecting a making practice to que
 | [Week 8](week08.md) | | [Your title] |
 | [Week 9](week09.md) | Bots & Generators | [Your title] |
 | [Week 10](week10.md) | Games & Play | [Your title] |
+| [Week 11](week11.md) | AI & Labor | [Your title] |
+| [Week 12](week12.md) | AI & Ecology | [Your title] |
