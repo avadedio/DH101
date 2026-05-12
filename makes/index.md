@@ -1,6 +1,10 @@
 # Makes
 
+<div style="background-color: #F5F0EB; padding: 40px; border-left: 5px solid #FFB6D9; border-radius: 8px; margin-bottom: 40px;">
+
 A collection of artifacts from AHI 101, each connecting a making practice to questions about AI and what it means to be human.
+
+</div>
 
 ---
 
