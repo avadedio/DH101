@@ -1,9 +1,3 @@
-
----
-title: Digital Humanities 101
-description: Course site — projects, makes, and reflections for DH101.
----
-
 <div style="background: linear-gradient(135deg, #8B6B47 0%, #6B5A47 100%); padding: 60px 40px; border-radius: 12px; margin-bottom: 40px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: flex; align-items: center; gap: 40px;">
   <div style="flex: 1;">
     <h1 style="margin: 0; color: #FFB6D9; font-size: 3em; font-weight: 700; letter-spacing: 1px;">Ava Dedio</h1>
@@ -43,20 +37,8 @@ I have learned that hidden labor is extremely prevalent in major AI systems; the
 
 ## Quick Navigation
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-bottom: 40px;">
-  <a href="pages/about.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">About</a>
-  <a href="pages/how-i-use-ai.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">How I Use AI</a>
+<div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin-bottom: 40px;">
   <a href="pages/accessibility.md" style="padding: 15px; background-color: #F5F0EB; border-radius: 6px; text-decoration: none; color: #8B6B47; font-weight: 500; text-align: center; border: 1px solid #E8D4C8;">Accessibility</a>
-</div>
-
-## About This Site
-
-<div style="background-color: #F5F0EB; padding: 25px; border-radius: 8px; border-left: 4px solid #8B6B47;">
-
-This site is maintained as a simple static site using Markdown. Content is organized into the `pages`, `makes`, and `reflections` folders. 
-
-**Last updated:** March 25, 2026
-
 </div>
 
 ---
