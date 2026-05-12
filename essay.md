@@ -1,9 +1,3 @@
----
-layout: default
----
-
-<div style="background-color: #F5F0EB; padding: 40px; border-left: 5px solid #FFB6D9; border-radius: 8px; margin-bottom: 40px;">
-
 # Final Reflective Essay
 
 To be human in the age of AI is not a question about technology; it is a question about power, agency, truth, and responsibility. In the age of artificial intelligence, being human means firstly recognizing that AI is not and will never be neutral. Every output is shaped by invisible human choices: what data is included, what is excluded, whose voices are heard, and whose remain on the margins. To be human in the age of AI is not only to use and engage with it, but to critically think and respond to it. Humanity now exists in the tension between accepting and embracing AI-generated content and resisting it, navigating the boundaries of public versus private, between efficiency and autonomy.
@@ -17,5 +11,3 @@ Being human in the age of AI means taking responsibility to resist the surrender
 Another contested aspect of humanity in the age of AI is the issue of personal data. AI systems rely on enormous amounts of information and past patterns collected from users: every interaction becomes data that can train algorithms and shape future responses. Being human in the age of AI also means recognizing the power involved in sharing or withholding personal details - there is agency in deciding what parts of yourself become data. Choosing not to share certain information can itself become an act of resistance against systems that constantly seek surveillance and heteronormativity. At the same time, some users may intentionally use AI to express themselves, find a certain community, or gain access to resources; humanity is enacted in the agency to choose one's relationship to technology rather than existing as a passive subject.
 
 Our class concept of "critical making" also helps illustrate the relationship between humans and technology in the age of AI. As Hertz writes, "Critical design is object-oriented; critical making is process-oriented and scholarship-oriented: "Critical making emphasizes the shared acts of making rather than the evocative object. The final prototypes are not intended to be displayed and to speak for themselves" [19]. (Hertz)." This concept centers meaning as not only from the final product but from the constitution of that process. In the context of AI, this concept supports that we shift focus on not only what the technology produces but on how and why people engage with it or question. We can foster humanity in the age of AI through this concept, ensuring humans remain centered in actively interpreting and critiquing technological systems.
-
-</div>
