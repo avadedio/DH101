@@ -1,8 +1,6 @@
 # Reflections
 
-Selected journal responses from across the semester, expanding on weekly "Reflect" prompts.
-
----
+<div style="background-color: #F5F0EB; padding: 40px; border-left: 5px solid #FFB6D9; border-radius: 8px; margin-bottom: 40px;">
 
 ## Reflection 1 — Week 6: What do we gain/lose when machines "read" literature for us?
 
@@ -19,3 +17,5 @@ When identity is co-constructed with AI, authenticity is fundamentally compromis
 ## Reflection 3 — Week 13: Do you imagine AI futures as utopian, dystopian, or in-between? What do your visions reveal about us today?
 
 I imagine AI futures as being a mix of dystopian and utopian because of its range of possibilities for use depending on a multitude of factors. First, we need to question and work toward understanding how much users may know about AI in general, but also their understanding of specific platforms and their unique abilities and limitations when imagining the future. As AI is becoming further integrated into our society and further institutionalized today, it does and will continue to blur the line between our personal and professional lives which I think is a big concern. For example, we see AI being integrated into the workplace and even being required in some cases, but we also see a rise in discourse about AI boundaries with personal and sensitive topics such as mental health. This reveals that automation risks blurring lines and boundaries around authenticity, safety, and identity.
+
+</div>

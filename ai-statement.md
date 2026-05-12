@@ -1,3 +1,7 @@
+<div style="background-color: #F5F0EB; padding: 40px; border-left: 5px solid #FFB6D9; border-radius: 8px; margin-bottom: 40px;">
+
 # AI Use Statement
 
 I used ChatGPT, Canva AI and Voyant in this course. One example was utilizing Voyant for deep linguistic analysis - it really focused on the quantity and concentration of key words and literary tools. I found it very different from ChatGPT, which is my second example. ChatGPT juxtaposed Voyant as a tool by focusing more on the "big picture" of an input or a summary. In comparison to ChatGPT, in my experience, Voyant allowed for more interpretation by avoiding summaries and subjective conclusions, instead highlighting objective aspects of a piece without annotation. In terms of biases, ChatGPT may be limiting and bias regarding its outputs; the averageness and flatness of this output may decenter the user from details, messaging, and other ethical considerations. On the other hand, Voyant removes this bias by rejecting summary and interpretation, but by quantifying prominence. The lack of connotative output by Voyant allows for more genuine interpretation and critical thinking.
+
+</div>
