@@ -1,50 +1,13 @@
 # Final Reflective Essay
 
-**[Your Essay Title — make it specific, not just "Final Essay"]**
-[Your Name] — AHI 101 — [Date]
+To be human in the age of AI is not a question about technology; it is a question about power, agency, truth, and responsibility. In the age of artificial intelligence, being human means firstly recognizing that AI is not and will never be neutral. Every output is shaped by invisible human choices: what data is included, what is excluded, whose voices are heard, and whose remain on the margins. To be human in the age of AI is not only to use and engage with it, but to critically think and respond to it. Humanity now exists in the tension between accepting and embracing AI-generated content and resisting it, navigating the boundaries of public versus private, between efficiency and autonomy.
 
----
+One of the most important aspects of AI is that it appears objective while actually being trained on previous data created by people, and people carry biases, assumptions, and systems of power into everything they create and engage with. Because of this, AI systems reproduce existing social structures rather than existing outside of them. As Hicks explains, "The computer system was explicitly designed to reinstate and strengthen not only the idea of static, permanent, immutable gender, but also to continue to uphold strictly binary gender" (Hicks 29). Hicks demonstrates that technology does not simply reflect reality; it actively constructs and reinforces it in hidden ways. The system encodes a narrow understanding of gender because of those who designed it.
 
-[REPLACE EVERYTHING BELOW WITH YOUR 750–1000 WORD ESSAY]
+Extending beyond gender, humanity in AI systems determine what information appears first in search results, what language is flagged as harmful, and what images are recommended: who gets to decide what counts as truth? Who decides which words are prioritized and which are erased? When AI generates homogeneous, socially acceptable responses that sound credible, users may treat these outputs like universal truths; being human in the age of AI therefore requires structural awareness of the contemporary artificial intelligence landscape. Because these systems are designed to sound objective and efficient, users may stop questioning the outputs. However, our humanity and our agency is grounded in critical thinking.
 
-**The guiding question:** *What does it mean to be human in the age of AI?*
+Being human in the age of AI means taking responsibility to resist the surrender of intellectual agency; a human response raises questions of why/how the AI's answer is accurate, who it centers, and what who's voices might be missing. Johnson and Salter write that "Designing for share-ability remains an essential feature for modern GIFs, which are frequently compressed again and again as they are manipulated to new ends: it is not unusual to see a GIF become source material for endless reimaginings" (Johnson & Salter 73). Although this insight touches on GIF culture specifically, it reflects a larger truth about digital spaces in the age of AI; content constantly circulates, transforms, and evolves new meanings as people interact with it. This endless circulation or "loop" creates both power and danger. On one hand, users can enact agency in reinterpreting technology & AI tools for communication, activism, and education. On the other hand, misinformation or extremely polarizing messaging can amplify in an environment where people accept AI-generated content without questioning it. In this way, the human role becomes essential and AI generated content is not longer an object or product, but a participant in an exchange. To foster humanity in the age of AI, we must evaluate and challenge information rather than be passive consumers; the responsibility of critical thinking cannot be outsourced to machines.
 
-**Requirements:**
-- 750–1000 words
-- Must reference at least 3 course readings (cite them in the text)
-- Should draw on your making experiences from the semester
-- Needs a clear argument — not just a summary of what you did
+Another contested aspect of humanity in the age of AI is the issue of personal data. AI systems rely on enormous amounts of information and past patterns collected from users: every interaction becomes data that can train algorithms and shape future responses. Being human in the age of AI also means recognizing the power involved in sharing or withholding personal details - there is agency in deciding what parts of yourself become data. Choosing not to share certain information can itself become an act of resistance against systems that constantly seek surveillance and heteronormativity. At the same time, some users may intentionally use AI to express themselves, find a certain community, or gain access to resources; humanity is enacted in the agency to choose one's relationship to technology rather than existing as a passive subject.
 
----
-
-Write your opening paragraph here. A strong opening begins with something specific — a moment, a surprise, a claim bold enough to need defending. State your central argument clearly within the first paragraph.
-
-Your second paragraph might ground the argument in a specific making experience from the semester. What artifact, tool, or moment crystallized something for you? Make it concrete before you make it abstract.
-
-Here is where you might bring in your first course reading. Reference it by author and title, and explain what it contributes to your argument — not just what it says, but why it matters here. For example: *As [Author] argues in "[Reading Title]," [paraphrase the relevant idea]. My experience making [artifact] put pressure on this claim in the following way…*
-
-Continue developing your argument. This essay is not a summary of the course — it is a sustained answer to the guiding question. Your answer should be specific to your experience but reach toward something more general.
-
-Bring in your second reading here, connected to a different artifact or experience. The essay should feel like your argument is driving the structure, with readings brought in as support.
-
-Address a complication or counterargument. What is the strongest objection to your central claim? How do you respond to it? This is often the most intellectually honest and interesting part of a reflective essay.
-
-Introduce your third reading. This might be where you push your argument furthest — beyond what the readings say, toward something you've figured out that they don't fully account for.
-
-Write your concluding paragraph here. Don't simply restate your thesis — extend it. What do you now understand that you didn't at the start of the semester? What question are you still sitting with?
-
----
-
-## Works Cited
-
-[Author Last, First. "*Reading Title.*" Publication, Year.]
-
-[Author Last, First. "*Reading Title.*" Publication, Year.]
-
-[Author Last, First. "*Reading Title.*" Publication, Year.]
-
-[Add any additional sources]
-
----
-
-*Word count: [paste your count here before submitting — aim for 750–1000 words, not counting Works Cited]*
+Our class concept of "critical making" also helps illustrate the relationship between humans and technology in the age of AI. As Hertz writes, "Critical design is object-oriented; critical making is process-oriented and scholarship-oriented: "Critical making emphasizes the shared acts of making rather than the evocative object. The final prototypes are not intended to be displayed and to speak for themselves" [19]. (Hertz)." This concept centers meaning as not only from the final product but from the constitution of that process. In the context of AI, this concept supports that we shift focus on not only what the technology produces but on how and why people engage with it or question. We can foster humanity in the age of AI through this concept, ensuring humans remain centered in actively interpreting and critiquing technological systems.
