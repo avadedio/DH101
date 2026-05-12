@@ -1,3 +1,12 @@
+---
+layout: default
+style: |
+  body {
+    background: linear-gradient(135deg, #F5E6D3 0%, #FFE8F5 100%);
+    background-attachment: fixed;
+  }
+---
+
 <div style="background-color: #F5F0EB; padding: 40px; border-left: 5px solid #FFB6D9; border-radius: 8px; margin-bottom: 40px;">
 
 # Final Reflective Essay
