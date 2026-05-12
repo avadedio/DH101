@@ -16,9 +16,13 @@ description: Course site — projects, makes, and reflections for DH101.
 
 <div style="background-color: #F5F0EB; padding: 40px; border-left: 5px solid #FFB6D9; border-radius: 8px; margin-bottom: 40px;">
 
-## Welcome
+## What have you learned about humans and AI through critical making?
 
-This is your portfolio for **AHI 101: Critical Making in the Age of AI**. Explore the artifacts, reflections, and essays that document your journey through this course.
+AI and humans are not as mutually exclusive as we would like to think. Through critical making, I have learned to connect with AI through a multitude of mediums; we have analyzed its impacts, processes, and implications through linguistic analysis, spatial analysis and geographical lenses, and hidden biases. I have learned that we are AI - AI is a mirror and reflection of our current societal attitudes and biases; whatever AI reflects to us is what collectively discomforts us as a society. 
+
+It is also important to acknowledge the presence of flatness and averageness that AI systems are constituted of; AI outputs will never overcompensate for human experience because of this - the AI produces outputs from an average, humans produce outputs from a lived perspective. AI systems therefore are incapable of having a point of view and a bias. Specifically, when creating images through this course, such as our comic and AI selfies, I noticed the concept of flatness consistently. The background, expressions, objects, and body language were all very unimpressionable, vague, and empty. Through working with visuals, I learned even adding another person to a piece did not allow for a dynamic to come across, even with having all the resources needed. This experience validated that AI cannot overcompensate for human experience in certain categories such as this. 
+
+I have learned that hidden labor is extremely prevalent in major AI systems; the major companies we associate with AI production hide the work, contribution, and importance of data centers, mine workers, content moderators, and other hidden workers. Something we learned that really alarmed me was learning what content moderators experience in their daily life; as someone on social media, I am no stranger to sometimes upsetting content, but to be an employee on the front lines must be emotionally and mentally taxing, as well as not having received the economic compensation it deserves.
 
 </div>
 
