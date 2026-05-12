@@ -1,52 +1,6 @@
-Accessibility statement
+# AI Use Statement
 
-How I used artificial intelligence tools in AHI 101 — including coding assistants, text and image generators, and analysis tools — with discussion of limits, bias, and ethical considerations.
-
----
-
-## Tools Used This Semester
-
-| Tool | Type | Used For |
-|------|------|----------|
-| [e.g. DALL·E 3] | Image generation | [e.g. Selfie artifact, Comic backgrounds] |
-| [e.g. Claude / ChatGPT] | Text generation | [e.g. Bot artifact, brainstorming] |
-| [e.g. GitHub Copilot] | Code assistant | [e.g. HTML/Markdown for this site] |
-| [Add rows as needed] | | |
-
----
-
-## Example 1: [Name the Tool and Task]
-
-**What I was trying to do:**
-[Describe the specific task — e.g. "I used DALL·E 3 to generate a self-portrait for the Week 3 Selfie artifact."]
-
-**The prompt I used:**
-[Paste your actual prompt here, or a close summary of it.]
-
-**What the AI produced:**
-[Describe the output honestly.]
-
-**What it did well:**
-[What was useful or impressive.]
-
-**Limits I noticed:**
-[Where it fell short, got things wrong, or needed significant correction.]
-
-**Bias and ethical considerations:**
-[This is the most important part. Did the tool reflect assumptions about race, gender, culture, or identity? Did it produce something that felt off or problematic? How did you respond? Be specific.]
-
----
-
-## Example 2: [Name the Tool and Task]
-
-**What I was trying to do:**
-[Choose a different type of AI use from Example 1 — e.g. a text generator, a coding assistant, or an analysis tool.]
-
-**The prompt I used:**
-[Paste or describe your prompt.]
-
-**What the AI produced:**
-[Describe the output.]
+I used ChatGPT, Canva AI and Voyant in this course. One example was utilizing Voyant for deep linguistic analysis - it really focused on the quantity and concentration of key words and literary tools. I found it very different from ChatGPT, which is my second example. ChatGPT juxtaposed Voyant as a tool by focusing more on the "big picture" of an input or a summary. In comparison to ChatGPT, in my experience, Voyant allowed for more interpretation by avoiding summaries and subjective conclusions, instead highlighting objective aspects of a piece without annotation. In terms of biases, ChatGPT may be limiting and bias regarding its outputs; the averageness and flatness of this output may decenter the user from details, messaging, and other ethical considerations. On the other hand, Voyant removes this bias by rejecting summary and interpretation, but by quantifying prominence. The lack of connotative output by Voyant allows for more genuine interpretation and critical thinking.
 
 **What it did well:**
 [Your observation.]
