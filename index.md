@@ -10,7 +10,7 @@
 
 <div style="background-color: #F5F0EB; padding: 40px; border-left: 5px solid #FFB6D9; border-radius: 8px; margin-bottom: 40px;">
 
-## What have you learned about humans and AI through critical making?
+What have you learned about humans and AI through critical making?
 
 AI and humans are not as mutually exclusive as we would like to think. Through critical making, I have learned to connect with AI through a multitude of mediums; we have analyzed its impacts, processes, and implications through linguistic analysis, spatial analysis and geographical lenses, and hidden biases. I have learned that we are AI - AI is a mirror and reflection of our current societal attitudes and biases; whatever AI reflects to us is what collectively discomforts us as a society. 
 
